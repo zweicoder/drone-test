@@ -1,2 +1,2 @@
 # drone-test
-[![Build Status](http://localhost:8000/api/badges/zweicoder/drone-test/status.svg)](http://localhost:8000/zweicoder/drone-test)
+[![Build Status](http://54.255.190.142/api/badges/zweicoder/drone-test/status.svg)](http://54.255.190.142/zweicoder/drone-test)

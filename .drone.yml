@@ -1,13 +1,5 @@
 pipeline:
   backend:
-    image: golang
+    image: hello-world
     commands:
-      - go get
-      - go build
-      - go test
-
-  frontend:
-    image: node:6
-    commands:
-      - npm install
-      - npm test
+      - echo 'wassap'
