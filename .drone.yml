@@ -1,0 +1,5 @@
+pipeline:
+  backend:
+    image: hello-world
+    commands:
+      - echo 'pewpew'
