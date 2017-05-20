@@ -1,5 +1,5 @@
 pipeline:
   backend:
-    image: hello-world
+    image: ubuntu:14.04
     commands:
-      - 
+      - echo 'hi'
